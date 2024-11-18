@@ -8,6 +8,8 @@ Bienvenue dans ce cours CodingGaming où nous allons plonger dans le développem
 
 Un jeu de Tower Defense est un genre de jeu vidéo stratégique où le joueur doit empêcher des vagues d'ennemis d'atteindre une certaine zone ou base en construisant des structures défensives appelées "tours". Ces tours attaquent automatiquement les ennemis qui tentent de traverser leur zone de couverture.
 
+![towerDefence.gif](Création-Du-Jeu/Images/towerDefence.gif)
+
 ### Histoire et Origines des Tower Defense 📜
 Les jeux de Tower Defense trouvent leurs origines dans les cartes personnalisées de titres légendaires tels que StarCraft et Warcraft III. Ces cartes permettaient aux joueurs de créer des scénarios où ils devaient défendre une base en plaçant des unités ou des structures à des endroits stratégiques.
 
